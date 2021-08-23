@@ -50,6 +50,11 @@ section:last-of-type {
   font-size: 4rem;
 }
 
+.navbar.scrolled {
+  background-color: #dec0de;
+  transition: background-color 0.5s;
+}
+
 @media (max-width: 1250px) {
   #heading-group h1 {
     font-size: 3.5rem;
